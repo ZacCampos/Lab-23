@@ -1,0 +1,23 @@
+/******************************************************************************
+ *AUTHOR	 	: Farah Alfarah & Zac Campos
+ *STUDENT ID	: 1035501       & 1058476
+ *LAB #23		: Functions - Rock Paper Scissors
+ *CLASS		    : CS1A
+ *SECTION		: MW: 8AM
+ *DUE DATE		: 4/16/18
+*******************************************************************************/
+
+#include "header.h"
+
+void GetInput(string &name, int &roundPref)
+{
+
+		cout << left;
+		cout << "Enter Player's Name: ";
+		getline(cin, name);
+
+		cout << "Enter Number of Rounds in Match: ";
+		cin >> roundPref;
+		cout << endl;
+
+}
