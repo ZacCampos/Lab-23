@@ -1,0 +1,65 @@
+***************************************************
+*  PROGRAMMED BY : Zac Campos & Farah Alfarah
+*  CLASS         : CS1A
+*  SECTION       : MW: 8am
+*  LAB #23       : Functions - Rock Paper Scissors
+***************************************************
+
+Enter Player's Name: Andrew Daniels
+Enter Number of Rounds in Match: 3
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: R
+
+Andrew Daniels chooses ROCK!
+Computer chooses SCISSORS!
+
+Andrew Daniels WINS!!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: S
+
+Andrew Daniels chooses SCISSORS!
+Computer chooses SCISSORS!
+
+Computer wins, better luck next time, Andrew Daniels!
+
+
+**********************
+** CHOOSE YOUR PLAY **
+**********************
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: x
+
+** INVALID INPUT - Please Enter (R, P, or S) **
+
+R - Rock
+P - Paper
+S - Scissors
+Enter your play: P
+
+Andrew Daniels chooses PAPER!
+Computer chooses PAPER!
+
+Computer wins, better luck next time, Andrew Daniels!
+
+
+***********************************
+*********  FINAL RESULTS  *********
+***********************************
+
+The user lost!!
+Andrew Daniels lost 66.67% of the time!
